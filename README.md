@@ -15,7 +15,7 @@ This program allows you to run one single script and it will instantly remove On
 
 ## Install
 
-Simply click 'removeonedrive.bat' in the file explorer on this repository, then click the 'download' icon. Once it has been installed, run it from the directory you installed it to. If it shows a 'Windows Protected your PC' or a 'Windows blocked this file from being downloaded', click 'Keep anyway' or See more then 'Run anyway'
+Simply navigate to the releases page in this repository, find the latest one, then click the 'download' icon next to the top file. Once it has been installed, run it from the directory you installed it to. If it shows a 'Windows Protected your PC' or a 'Windows blocked this file from being downloaded', click 'Keep anyway' or See more then 'Run anyway'
 
 
 ## Frequently Asked Questions
