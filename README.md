@@ -10,7 +10,7 @@
 
 ## About this repository
 
-This program allows you to run one single script, and it will instantly remove OneDrive from your system. Additionally, it will prevent it from being installed in the future, due to updates.
+This program allows you to run one single script, and it will instantly remove OneDrive from your system. Additionally, it will prevent it from being installed in the future due to updates.
 
 
 ## Install
