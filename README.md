@@ -20,7 +20,7 @@ Simply navigate to the releases page in this repository, find the latest one, th
 
 ## Frequently Asked Questions
 
-1. If you can still see '[YOUR NAME] - Personal' in the file explorer, and you get an error when you open it, this means the process has worked and you just need to restart your PC. [Click here for more information]([https://github.com/manchesterjames-cpu/removeonedrive/discussions](https://github.com/jamestheakston1/removeonedrive/issues/1))
+1. If you can still see '[YOUR NAME] - Personal' in the file explorer, and you get an error when you open it, this means the process has worked and you just need to restart your PC. [Click here for more information](https://github.com/jamestheakston1/removeonedrive/issues/1)
    
 ![Location couldn't be found error message](assets/message.png)
 
