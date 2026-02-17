@@ -4,8 +4,9 @@
 
 1. [Introduction](#about-this-repository)
 2. [Installation](#install)
-3. [FAQ](#frequently-asked-questions)
-4. [Issues and Questions](#issues-and-questions)
+3. [FAQ](#frequently-asked-questions) <br>
+   a) [Error when opening app issue FIX](#frequently-asked-questions)
+5. [Issues and Questions](#issues-and-questions)
 
 
 ## About this repository
