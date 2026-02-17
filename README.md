@@ -23,6 +23,10 @@ Simply navigate to the releases page in this repository, find the setup executab
    A: Its because apps from GitHub arent usually trusted by Windows (developers on GitHub usually aren't verified publishers)
 2. **How do I revert changes?** <br>
    A: Download the Revert Changes app from [here](https://github.com/jamestheakston1/removeonedrive/raw/refs/heads/main/Revert%20Changes.exe), or find the Revert Changes exe in the path where you installed Remove OneDrive to.
+3. **I get an error when I open the app** <br>
+![Admin error in terminal](assets/erroradmin.png)
+   A: You must right click on the script and click 'Run as Administrator'
+
 
 ## Issues and Questions
 
